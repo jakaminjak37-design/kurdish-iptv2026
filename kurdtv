@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Amozhgary.iq" tvg-name="AMOZHGARY" tvg-logo="https://i.imgur.com/FjtzQQs.png" group-title="Religious",AMOZHGARY
-https://app-live.org/live/3268334b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bangawaztv" tvg-logo="https://imgur.com/CYJrDuB.png" group-title="Religious",Bangawaztv
 http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
 
